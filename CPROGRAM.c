@@ -60,7 +60,7 @@ int main() {
     int a;
     printf("enter a number\n");
     scanf("%d",&a);
-    if((a%5==0) && (a%11==0))
+    if((a%55==0))
      printf("number is divisible by 5 and 11\n");
     
     else
